@@ -1,6 +1,6 @@
 # Titanic Survival Prediction
 
-Simple machine learning project to predict Titanic passenger survival with main focus on feature engineering and ensemble-style model comparison.
+Simple machine learning project to predict Titanic passenger survival with main focus on feature engineering and ensemble-style model comparison between Decision Tree, Random Forest, and XGBoost.
 
 ## Workflow in `prediction.ipynb`
 1. Install and import required libraries (`pandas`, `numpy`, `seaborn`, `scikit-learn`, `xgboost`, `scikit-optimize`).
